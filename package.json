@@ -5,7 +5,7 @@
   "scripts": {
     "compile": "sass --watch src/scss:dist/css --style=compressed"
   },
-  "author": "Vipin Mishra",
+  "author": "Divyanshu Gupta",
   "license": "MIT",
   "devDependencies": {
     "sass": "^1.26.10"
